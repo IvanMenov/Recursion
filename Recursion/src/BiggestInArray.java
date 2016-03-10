@@ -1,8 +1,7 @@
 
-public class BiggestInArray {
+public class SmallestInArray {
 	
-//	Да се състави програма, която по въведен масив с естествени числа
-//	извежда минималния елемент от масива. Използвайте рекурсия.
+// find the smallest element in an array 
 	
 	
 	static int smallest(int[]array, int index){
