@@ -23,9 +23,9 @@ public class SimpleNumber {
 		
 		boolean prime=(isSimple(number, divisor));
 		if(prime){
-			System.out.println("Ïðîñòî");
+			System.out.println("просто");
 		}else{
-			System.out.println("Íå å ïðîñòî");
+			System.out.println("не е просто");
 		}
 	}
 
