@@ -1,5 +1,5 @@
-//Да се състави програма, която изчислява произведение на две
-//естествени числа =>2, като се използва само събиране.
+
+//find the product of 2 numbers using recursion
 
 public class Product {
 
