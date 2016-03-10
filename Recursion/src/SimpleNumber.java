@@ -1,5 +1,6 @@
-//Да се състави програма, която проверява дали въведено естествено
-//число е просто.
+
+//Р”Р° СЃРµ СЃСЉСЃС‚Р°РІРё РїСЂРѕРіСЂР°РјР°, РєРѕСЏС‚Рѕ РїСЂРѕРІРµСЂСЏРІР° РґР°Р»Рё РІСЉРІРµРґРµРЅРѕ РµСЃС‚РµСЃС‚РІРµРЅРѕ
+//С‡РёСЃР»Рѕ Рµ РїСЂРѕСЃС‚Рѕ.
 
 public class SimpleNumber {
 	
@@ -22,9 +23,9 @@ public class SimpleNumber {
 		
 		boolean prime=(isSimple(number, divisor));
 		if(prime){
-			System.out.println("Просто");
+			System.out.println("ГЏГ°Г®Г±ГІГ®");
 		}else{
-			System.out.println("Не е просто");
+			System.out.println("ГЌГҐ ГҐ ГЇГ°Г®Г±ГІГ®");
 		}
 	}
 
